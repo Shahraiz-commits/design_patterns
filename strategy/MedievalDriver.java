@@ -3,7 +3,7 @@ public class MedievalDriver {
     public static void main(String[] args) {
         Character king = new King("Thomas");
         Character queen = new Queen("Isabella");
-        Character knight = new Knight("Luke");
+        Character knight = new Knight3("Luke");
         Character troll = new Troll("Brownwen");
 
         System.out.println(king);
